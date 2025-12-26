@@ -149,19 +149,19 @@ I didn't just build charts—I built a **decision-making framework** with 18 int
 ## 💾 How to Access
 
 ### Option 1: Interactive Online
-👉 **[View Live on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)**
+👉 **[View Live on Tableau Public](https://public.tableau.com/shared/XGJFYBT7Z?:display_count=n&:origin=viz_share_link)**
 - Interact with filters
 - Hover for details
 - Explore the data yourself
 
 ### Option 2: Download & Explore Locally
 1. Clone this repository
-2. Download `Ott_Viewer_Retention.twbx`
-3. Open in Tableau Desktop
-4. Inspect calculated fields, filter logic, and design
+2. Download ![OTT Viewership Dashboard.twbx](files/OTT_Viewership_Dashboard.twbx)
+4. Open in Tableau Desktop
+5. Inspect calculated fields, filter logic, and design
 
 ### Option 3: View Static Dashboard
-- Screenshot included as `Dashboard_Screenshot.png`
+- Screenshot included as `Dashboard.png`
 
 ---
 
