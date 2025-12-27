@@ -3,7 +3,7 @@
 
 ![Dashboard Preview](files/Dashboard.png
 )  
-*Interactive Dashboard: [View on Tableau Public](https://public.tableau.com/shared/XGJFYBT7Z?:display_count=n&:origin=viz_share_link) 
+*Interactive Dashboard: [View on Tableau Public](https://public.tableau.com/views/OTTViewershipDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -149,7 +149,7 @@ I didn't just build charts—I built a **decision-making framework** with 18 int
 ## 💾 How to Access
 
 ### Option 1: Interactive Online
-👉 **[View Live on Tableau Public](https://public.tableau.com/shared/XGJFYBT7Z?:display_count=n&:origin=viz_share_link)**
+👉 **[View Live on Tableau Public](https://public.tableau.com/views/OTTViewershipDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 - Interact with filters
 - Hover for details
 - Explore the data yourself
@@ -220,7 +220,7 @@ I didn't just build charts—I built a **decision-making framework** with 18 int
 
 ## 🔗 Links & Resources
 
-- **Dashboard Link:** [Tableau Public](https://public.tableau.com/shared/XGJFYBT7Z?:display_count=n&:origin=viz_share_link)
+- **Dashboard Link:** [Tableau Public](https://public.tableau.com/views/OTTViewershipDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Data Source:** [Kaggle OTT Dataset](https://www.kaggle.com/datasets/eklavya16/ott-viewer-drop-off-and-retention-risk-dataset)
 - **My LinkedIn:** [Connect](https://www.linkedin.com/in/abhinav-d-b713b2214/)
 - **Portfolio:** [GitHub](https://github.com/dubeyabhinav/OTT-Viewership-Retention/)
