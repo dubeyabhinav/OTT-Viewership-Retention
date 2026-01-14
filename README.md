@@ -1,9 +1,11 @@
 # 📺 OTT Viewer Retention & Episode Performance Analysis
-### *A Strategic Tableau Dashboard Analyzing 33,000+ Episodes Across 487 Shows*
+### A Strategic Tableau Dashboard Analyzing 33,000+ Episodes Across 487 Shows
 
-![Dashboard Preview](files/Dashboard.png
+![Dashboard Preview](files/ott_viewership.gif
 )  
-*Interactive Dashboard: [View on Tableau Public](https://public.tableau.com/views/OTTViewershipDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+**>Interactive Dashboard**: [View on Tableau Public](https://public.tableau.com/views/OTTViewershipDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
